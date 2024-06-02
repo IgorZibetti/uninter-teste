@@ -28,7 +28,6 @@
 
 Para iniciar o servidor de desenvolvimento, execute:
 
-Instale as dependências:
  ```sh
     npm start
 ```
